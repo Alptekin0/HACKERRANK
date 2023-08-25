@@ -7,7 +7,10 @@ public class aAndB {
 
 	public static void main(String[] args) {
 		
-		
+		/*
+		  VERİLEN İKİ STRİNGİN UZUNLUK TOPLAMI VE STRİNGLERİN BİRBİRİNİN AYNISI OLUP
+		  OLMADIĞINI KONTROLEDEN PROGRAM. 
+		 */
 		
 		Scanner input = new Scanner(System.in);
 		String aString = input.nextLine();
